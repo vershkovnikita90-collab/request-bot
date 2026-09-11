@@ -1,3 +1,8 @@
+<img width="744" height="276" alt="Снимок экрана 2026-09-11 210450" src="https://github.com/user-attachments/assets/fc255e85-8b33-4f5b-b7cf-228b5b7b5df5" />
+<img width="437" height="333" alt="Снимок экрана 2026-09-11 210521" src="https://github.com/user-attachments/assets/3681f9d2-eb9a-48b5-82b3-b8f291741d35" />
+<img width="762" height="357" alt="Снимок экрана 2026-09-11 210621" src="https://github.com/user-attachments/assets/25f5cafe-6e89-4860-bdd9-b1eb72f6b41a" />
+<img width="483" height="209" alt="Снимок экрана 2026-09-11 210555" src="https://github.com/user-attachments/assets/a46492ed-cce9-4632-a21d-2eee6e1ec0d7" />
+<img width="752" height="236" alt="Снимок экрана 2026-09-11 210641" src="https://github.com/user-attachments/assets/f0f60232-9e4d-4b98-9167-f2bba649675e" />
 # 🤖 Request Bot — Telegram-бот для приёма заявок
 
 **Бот принимает заявки от клиентов, сохраняет их в базу и мгновенно уведомляет администратора.**
