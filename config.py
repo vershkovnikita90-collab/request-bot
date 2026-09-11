@@ -1,3 +1,9 @@
-BOT_TOKEN = "8622957079:AAEFIh-RTUkoyu4tCS1T6obktGvBYxAf1Vc"
-ADMIN_ID = 990115072
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+ADMIN_ID = int(os.getenv("ADMIN_ID"))
+PROXY_URL = os.getenv("PROXY_URL")
 DB_PATH = "requests.db"
