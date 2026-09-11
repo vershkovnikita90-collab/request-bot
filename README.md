@@ -63,9 +63,6 @@ python bot.py
 3. Вводит имя и телефон
 4. Админ получает уведомление
 5. Админ вводит `/list` и видит все заявки
-<img width="741" height="268" alt="image" src="https://github.com/user-attachments/assets/a84b558e-62ec-4f34-8244-4175ba2d6c00" />
-<img width="433" height="335" alt="image" src="https://github.com/user-attachments/assets/ba59ee27-f145-48b2-a17e-5920cb677d68" />
-<img width="770" height="348" alt="image" src="https://github.com/user-attachments/assets/5ecc7e19-6c1f-472f-b00b-df7e866ac379" />
 <img width="277" height="163" alt="image" src="https://github.com/user-attachments/assets/6c47f199-f371-4336-9a4c-fb5ada244f81" />
 
 
