@@ -1,3 +1,8 @@
+<img width="752" height="236" alt="Снимок экрана 2026-09-11 210641" src="https://github.com/user-attachments/assets/0121ab4f-d8f7-4a94-a3a5-3ed3f99fedfc" />
+<img width="483" height="209" alt="Снимок экрана 2026-09-11 210555" src="https://github.com/user-attachments/assets/7098627f-40a4-43b8-944d-2c7fb68aaf9f" />
+<img width="762" height="357" alt="Снимок экрана 2026-09-11 210621" src="https://github.com/user-attachments/assets/d5d5a5c5-1c32-4087-8d22-4cb105ce124b" />
+<img width="437" height="333" alt="Снимок экрана 2026-09-11 210521" src="https://github.com/user-attachments/assets/14cfeb4b-1502-40d3-8ba9-f2574d4a0152" />
+<img width="744" height="276" alt="Снимок экрана 2026-09-11 210450" src="https://github.com/user-attachments/assets/21366901-128d-483d-91a4-aba057e26e1d" />
 
 # 🤖 Request Bot — Telegram-бот для приёма заявок
 
