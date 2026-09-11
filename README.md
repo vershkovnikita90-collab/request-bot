@@ -64,10 +64,10 @@ python bot.py
 3. Вводит имя и телефон
 4. Админ получает уведомление
 5. Админ вводит `/list` и видит все заявки
-<img width="752" height="236" alt="Снимок экрана 2026-09-11 210641" src="https://github.com/user-attachments/assets/04750f77-179c-4f89-a7a8-ee4be365807b" />
-<img width="483" height="209" alt="Снимок экрана 2026-09-11 210555" src="https://github.com/user-attachments/assets/b7f4de4b-3042-48b8-bd62-8876c5116caa" />
-<img width="762" height="357" alt="Снимок экрана 2026-09-11 210621" src="https://github.com/user-attachments/assets/587aea35-8c6e-489b-abeb-ef50bf83d45c" />
-<img width="437" height="333" alt="Снимок экрана 2026-09-11 210521" src="https://github.com/user-attachments/assets/f3568ffc-4393-4558-949d-8464c58a2d8b" />
-<img width="744" height="276" alt="Снимок экрана 2026-09-11 210450" src="https://github.com/user-attachments/assets/a68db408-1a71-4ea6-9d8b-e03675f982db" />
+<img width="752" height="236" alt="Снимок экрана 2026-09-11 210641" src="https://github.com/user-attachments/assets/97da069b-86ca-44e1-9531-5c69189a6f63" />
+<img width="483" height="209" alt="Снимок экрана 2026-09-11 210555" src="https://github.com/user-attachments/assets/a185d0e7-6859-4489-92cf-901d9326ed9a" />
+<img width="762" height="357" alt="Снимок экрана 2026-09-11 210621" src="https://github.com/user-attachments/assets/8e958a86-1099-47a5-8e2c-ee21d612b9b7" />
+<img width="437" height="333" alt="Снимок экрана 2026-09-11 210521" src="https://github.com/user-attachments/assets/9e9e8502-4a95-41bc-a493-35181ce648d3" />
+<img width="744" height="276" alt="Снимок экрана 2026-09-11 210450" src="https://github.com/user-attachments/assets/67791eb2-5e77-4bd1-a776-ebb3f08613c7" />
 
 
